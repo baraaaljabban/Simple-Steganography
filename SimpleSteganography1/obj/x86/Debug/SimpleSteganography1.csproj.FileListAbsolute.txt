@@ -1,0 +1,8 @@
+C:\Users\aboal\Desktop\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.exe
+C:\Users\aboal\Desktop\SimpleSteganography1\SimpleSteganography1\bin\Debug\SimpleSteganography1.pdb
+C:\Users\aboal\Desktop\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csprojResolveAssemblyReference.cache
+C:\Users\aboal\Desktop\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Form1.resources
+C:\Users\aboal\Desktop\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography.Properties.Resources.resources
+C:\Users\aboal\Desktop\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.csproj.GenerateResource.Cache
+C:\Users\aboal\Desktop\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.exe
+C:\Users\aboal\Desktop\SimpleSteganography1\SimpleSteganography1\obj\x86\Debug\SimpleSteganography1.pdb
